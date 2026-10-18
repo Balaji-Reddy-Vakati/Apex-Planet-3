@@ -1,22 +1,31 @@
-# Apex Planet Internship Project 3
+# Apex Planet Internship – Responsive Interactive Web Project
 
-## About
-This repository contains my third project/task completed as part of the Apex Planet internship program.
+## Overview
+
+A responsive and interactive web development project created as part of my Apex Planet internship.
+
+The project combines a quiz, image carousel, and weather information feature in a single webpage.
+
+## Features
+
+- Responsive webpage design
+- Interactive quiz with answer validation
+- Image carousel with previous and next controls
+- Dynamic image switching using JavaScript
+- Weather information fetched from a public API
+- Mobile-friendly layout
 
 ## Technologies Used
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
+- Public Weather API
 
-## Project Work
-This project demonstrates practical web development work completed during the internship.
+## Project Structure
 
-## Key Learning
-- Frontend development
-- HTML and CSS implementation
-- JavaScript fundamentals
-- Responsive web development
-- Practical project development
-
-## Author
-Vakati Balaji Sumanth Krishna Reddy
+```text
+Apex-Planet-3/
+├── weaher.html
+├── Screenshot 2025-06-11 141505.png
+└── README.md
